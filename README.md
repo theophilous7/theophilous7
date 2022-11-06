@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theophilous7
 - 👀 I’m interested in software engineering and blockchian development 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Git...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, Javascript, Git..
 - 📫 How to reach me @Theophilous789@gmail.com 
 
 <!---
